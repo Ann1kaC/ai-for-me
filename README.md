@@ -1,4 +1,4 @@
-# AI for ME – ettevõtjale loodud AI-süsteemid ja tööriistad
+# AI for Workflows – ettevõtjale loodud AI-süsteemid ja tööriistad
 
 AI for ME on praktiline ökosüsteem, mis aitab ettevõtjatel, sooloettevõtjatel ja väikefirmadel rakendada tehisintellekti nii, et see toetab päriselt ärikasvu, efektiivsust ja otsustusvõimet.  
 Fookus on selgusel, süsteemsusel ja turvalisel juurutamisel – ilma tehnilise ülekoormuseta.
